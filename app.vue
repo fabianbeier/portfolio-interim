@@ -2,6 +2,7 @@
   <div class="p-3 text-gray-500 text-sm leading-tight selection:text-gray-700">
     <h1 class=" text-gray-400">Fabian Beier</h1>
     <p>Design / Development</p>
+    <a href="mailto:mail@fabian-beier.de" class="text-gray-600">mail@fabian-beier.de</a>
   </div>
 </template>
 
